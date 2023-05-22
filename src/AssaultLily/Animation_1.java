@@ -7,7 +7,6 @@ public class Animation_1 extends Thread {
 	public JLabel label;//ラベルのフィールド
 	public ImageIcon[] imgs;
 	public int num;
-//	public ArrayList<ImageIcon> imgs;//イメージのフィールド
 
 
 	public Animation_1(JLabel label ,ImageIcon[] imgs, int num){
