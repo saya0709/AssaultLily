@@ -9,8 +9,6 @@ public class Animation_1 extends Thread {
 	public int num;
 
 	
-	
-
 	public Animation_1(JLabel label ,ImageIcon[] imgs, int num){
 		this.label=label;
 		this.imgs=imgs;
