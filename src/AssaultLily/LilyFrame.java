@@ -9,7 +9,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.LayoutStyle.ComponentPlacement;
 import javax.swing.border.EmptyBorder;
-//2023/05/23/08:55
+//2023/05/23/08:55//
 public class LilyFrame extends JFrame {
 
 	private JPanel contentPane;
